@@ -1,0 +1,5 @@
+[run]
+include = best_clowns/*
+omit = *migrations*, *tests*
+plugins =
+    django_coverage_plugin
